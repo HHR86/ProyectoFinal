@@ -1,0 +1,9 @@
+div{
+    background-color:rgb(14, 68, 119);
+    position: relative;
+}
+
+app-redes{
+    float: right;
+    margin-top: 25px;
+}
